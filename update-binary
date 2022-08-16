@@ -1,0 +1,20 @@
+exported PATH and CROSS_COMPILE prefix export PATH="/path/>Applet: [
+
+Applet is symlinked/installed.
+
+Symlinked to: /system/bin/busybox
+
+Usage: [EXPRESSION] Check file types, compare values etc. Return a 0/1 exit code depending on logical value of EXPRESSION
+
+Applet: [[
+
+Applet is symlinked/installed.
+
+Symlinked to: /system/bin/busybox
+
+Usage: [[ EXPRESSION ] Check file types, compare values etc. Return a 0/1 exit code depending on logical value of EXPRESSION
+
+Applet: ash
+
+Applet is symlinked/installed. Symlinked to: /system/bin/busybox]]
+

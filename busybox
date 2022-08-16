@@ -1,0 +1,21 @@
+Applet: [
+
+Applet is symlinked/installed.
+
+Symlinked to: /system/bin/busybox
+
+Usage: [EXPRESSION] Check file types, compare values etc. Return a 0/1 exit code depending on logical value of EXPRESSION
+
+Applet: [[
+
+Applet is symlinked/installed.
+
+Symlinked to: /system/bin/busybox
+
+Usage: [[ EXPRESSION ] Check file types, compare values etc. Return a 0/1 exit code depending on logical value of EXPRESSION
+
+Applet: ash
+
+Applet is symlinked/installed. Symlinked to: /system/bin/busybox
+
+Usage: ash [-/+OPTIONS] [-/+0 OPT]... [-c 'SCRIPT [ARGO (ARGS)] / FILE [ARGS]] Unix shell interpreter
